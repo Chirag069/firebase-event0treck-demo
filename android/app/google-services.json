@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018565849436",
+    "project_id": "fir-eventtreck",
+    "storage_bucket": "fir-eventtreck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018565849436:android:5fd8b0aaa1bf7b5a8d5199",
+        "android_client_info": {
+          "package_name": "com.firebaseeventtreck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY9NuC2D3d3gKxREenFKF76rgXkdC8MdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
